@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/group"
+        android:title="New Group" />
+    <item
+        android:id="@+id/broadcast"
+        android:title="New Broadcast" />
+    <item
+        android:id="@+id/link"
+        android:title="Link Devices" />
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_camera"
+        android:title="Camera"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="always" />
+</menu>

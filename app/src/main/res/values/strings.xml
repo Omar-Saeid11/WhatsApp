@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatsAppFireBase</string>
+
+    <string name="from">From</string>
+    <string name="welcome_to_whatsapp">Welcome to WhatsApp</string>
+    <string name="instruction">Read our Privacy Policy. Tap “Agree and continue” to accept the Teams of Service.</string>
+    <string name="agree_and_continue">AGREE AND CONTINUE</string>
+    <string name="register">Register</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="do_not_have_account">Do not have account?</string>
+    <string name="required">required</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="enter_your_message">Enter your message</string>
+</resources>
