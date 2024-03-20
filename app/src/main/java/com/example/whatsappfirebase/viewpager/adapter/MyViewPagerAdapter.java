@@ -1,4 +1,4 @@
-package com.example.whatsappfirebase.viewpager;
+package com.example.whatsappfirebase.viewpager.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;

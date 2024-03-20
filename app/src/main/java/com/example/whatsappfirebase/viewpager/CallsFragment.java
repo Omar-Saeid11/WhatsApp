@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.whatsappfirebase.R;
 import com.example.whatsappfirebase.databinding.ListOfCallsItemBinding;
+import com.example.whatsappfirebase.viewpager.adapter.CallsAdapter;
 import com.example.whatsappfirebase.viewpager.data.Calls;
 
 import java.util.ArrayList;

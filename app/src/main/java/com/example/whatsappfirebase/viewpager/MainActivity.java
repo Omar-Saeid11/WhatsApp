@@ -12,6 +12,7 @@ import com.example.whatsappfirebase.ui.chat.ChatFragment;
 import com.example.whatsappfirebase.ui.auth.LoginActivity;
 import com.example.whatsappfirebase.R;
 import com.example.whatsappfirebase.databinding.ActivityMainBinding;
+import com.example.whatsappfirebase.viewpager.adapter.MyViewPagerAdapter;
 import com.example.whatsappfirebase.viewpager.data.ModelFragment;
 import com.google.android.material.tabs.TabLayout;
 import com.google.android.material.tabs.TabLayoutMediator;

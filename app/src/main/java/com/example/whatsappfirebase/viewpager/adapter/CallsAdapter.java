@@ -1,4 +1,4 @@
-package com.example.whatsappfirebase.viewpager;
+package com.example.whatsappfirebase.viewpager.adapter;
 
 
 import android.view.LayoutInflater;
